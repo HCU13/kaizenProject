@@ -24,7 +24,7 @@ Adım adım kurulum talimatları:
 1. **Depoyu Klonlayın**
 
    ```bash
-   git clone https://github.com/kullaniciAdiniz/kaizenProject.git
+   git clone https://github.com/HCU13/kaizenProject.git
    cd kaizenProject
 
 2. **Bağımlılıkları Yükleyin**
